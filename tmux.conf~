@@ -1,7 +1,6 @@
 # Use Vim shortcuts
 setw -g mode-keys vi
 
-set term=screen-256color
 
 #### COLOUR (Solarized dark)
 
