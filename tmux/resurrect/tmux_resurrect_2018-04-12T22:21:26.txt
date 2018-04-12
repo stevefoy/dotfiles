@@ -1,0 +1,14 @@
+pane	0	0	:bash	1	:*	0	:/home/steve	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/steve/projects/pythonEric	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/steve	0	bash	:
+pane	1	0	:bash	1	:*	1	:/home/steve/dotfiles	1	bash	:
+pane	2	0	:bash	1	:*	0	:/home/steve	1	bash	:
+pane	3	0	:bash	1	:*	0	:/home/steve/dotfiles	1	bash	:
+pane	3	0	:bash	1	:*	1	:/home/steve	0	bash	:
+pane	3	1	:python	0	:-	0	:/home/steve	1	bash	:
+window	0	0	1	:*	78f1,80x23,0,0{39x23,0,0,0,40x23,40,0,1}
+window	1	0	1	:*	78fa,80x23,0,0{39x23,0,0,2,40x23,40,0,3}
+window	2	0	1	:*	ae61,80x23,0,0,4
+window	3	0	1	:*	f907,80x23,0,0{39x23,0,0,5,40x23,40,0,6}
+window	3	1	0	:-	ae64,80x23,0,0,7
+state	3	
